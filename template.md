@@ -1,4 +1,5 @@
 | **Name** | sunsine |
+|-----|:----:|
 | **Student ID** | 123 |
 | **Favourite Math Concept** | abc |
 | **Hobby** | swimming |
