@@ -1,5 +1,6 @@
-| **Name** | sunsine |
+| **Group** | sunsine |
 |-----|:----:|
+| **Name** | Nur |
 | **Student ID** | 123 |
 | **Favourite Math Concept** | abc |
 | **Hobby** | swimming |
