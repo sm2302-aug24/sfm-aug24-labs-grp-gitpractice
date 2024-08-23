@@ -3,7 +3,7 @@ Hello. We are the Sine(rs)!
 
 ## Group members
 1.
-Name | Student No | Hobby | Other Info | Photo | Link
+Name | Registration No | Hobby | Other Info | Photo | Link
 --- | --- | --- | --- | --- | ---
 Syafiqah Yusuf | 24B2009 | Sleep | I like cats | ![](https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?auto=compress&fm=pjpg) | [SyafYus](https://github.com/SyafYus)
 
