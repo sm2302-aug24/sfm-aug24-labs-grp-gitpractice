@@ -1,0 +1,7 @@
+# Sine ( rs ) 
+
+## Group members
+
+Name | Student No | Hobby | Other Info | Photo
+--- | --- | --- | --- | --- 
+Syafiqah Yusuf | 24B2009 | Sleep | I like cats | pic
