@@ -1,6 +1,16 @@
 |`group Name`|`Mathletes`|
 |---|---|
 
+|name|Farah Fareesha Binti Mohamad Rizam|
+|age|19|
+|student ID|24B2039|
+|Favourite number|4|
+|Hobbie|Gaming and jogging|
+|Favourite mathematical concept|Angles|
+|Why|Fun to solve and i understand the concept completely| 
+|Picture you find inspiring|<img src="https://github.com/user-attachments/assets/852fe074-030d-4906-8558-e191b2ec0e77" width="80" height="100">
+
+
 |name|syakirah|
 |age|20|
 |student ID|23B9016|
@@ -20,5 +30,6 @@
 |Favourite mathematical concept| Differentiation |
 |Why|Fun and easy to do when we understand the concept|
 |Picture you find inspiring| <img src="https://github.com/user-attachments/assets/c5841c81-10f2-4dc1-83aa-d23fe85bf853" width="100" height="100"/>|
+
 
 
