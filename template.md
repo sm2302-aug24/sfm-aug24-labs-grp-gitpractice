@@ -10,3 +10,5 @@
 | Hobbies  | Baking  | 
 | My Favourite Mathematical Concept | Prime numbers, because each of them is unique (divisible by themselves only)  | 
 | A Photo I Find Inspiring | ![Pic 1](https://github.com/user-attachments/assets/e04436df-bd61-40ac-817e-b4cccee009f8) |
+
+
