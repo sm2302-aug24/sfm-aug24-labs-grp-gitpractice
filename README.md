@@ -7,4 +7,4 @@
 | **Favourite Colour** | Green :green_heart: |
 | **Favourite place** | Places with a lot of foods! :pizza: :rice: :icecream: |
 
-![wani.jfif](https://raw.githubusercontent.com/sm2302-aug24/labs-grp-sunsine/nrwanikmli.md/wani.jfif)
+<img src="https://raw.githubusercontent.com/sm2302-aug24/labs-grp-sunsine/nrwanikmli.md/wani.jfif" width="250" height="300">
