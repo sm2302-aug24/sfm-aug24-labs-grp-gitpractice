@@ -11,7 +11,7 @@ Get to know us:
 |----|----|
 |Aribah|[Aribah's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/tree/AribahAzhan.md#)|
 |Syazwani|[Syazwani's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/tree/nrwanikmli.md#)|
-=======
+
 
 | **Group** | sunsine :sunny: |
 |-----|:----:|
