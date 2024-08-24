@@ -9,5 +9,5 @@ Get to know the members:
 
 |Member|:sun_with_face:|
 |----|----|
-|Aribah|[Aribah's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/tree/AribahAzhan.md#)|
-|Syazwani|[Syazwani's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/tree/nrwanikmli.md?tab=readme-ov-file#)|
+|Aribah|[Aribah's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/blob/0a7300bed5f528249a058f2c94d0a2dcd92f2eca/README.md)|
+|Syazwani|[Syazwani's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/blob/4eba40265cae6977909b5d42bd5270e94d9ac4a0/README.md)|
