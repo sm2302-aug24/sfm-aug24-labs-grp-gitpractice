@@ -9,5 +9,5 @@ Get to know us:
 
 |Member|:sun_with_face:|
 |----|----|
-|Aribah|[Aribah's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/commits?author=AribahAzhan)
-|Syazwani|[Syazwani's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/commits?author=nrwanikmli)
+|Aribah|[Aribah's profile](AribahREADME.md)
+|Syazwani|[Syazwani's profile](SyazwaniREADME.md)
