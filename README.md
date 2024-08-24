@@ -9,5 +9,5 @@ Get to know the members:
 
 |Member|:sun_with_face:|
 |----|----|
-|Aribah|
-|Syazwani|
+|Aribah|[Aribah's profile](AribahAzhan.md)|
+|Syazwani|[Syazwani's profile](nrwanikmli.md)|
