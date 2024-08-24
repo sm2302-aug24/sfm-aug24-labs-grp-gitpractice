@@ -1,6 +1,6 @@
-# `Mathletes`
+# **Mathletes**
 
-## Members:
+## _Members:_
 
 |-----|`Student details`|
 |---|---|
@@ -13,8 +13,6 @@
 |Why|Fun to solve and i understand the concept completely| 
 |Picture you like|<img src="https://github.com/user-attachments/assets/852fe074-030d-4906-8558-e191b2ec0e77" width="100" height="150"> |
 
-
-
 |-----|`Student details`|
 |----|----|
 |Name|Amal Syakirah Binti Haji Jazlan|
@@ -23,10 +21,8 @@
 |Favourite number|13|
 |Hobbie|Gaming|
 |Favourite mathematical concept| Proving trigonometrics ratios|
-|Why|I just need to prove and fun|
+|Why|I just need to prove and its fun to do it|
 |picture you like| <img src="https://github.com/user-attachments/assets/36f602f3-fc11-4eba-a111-6822af2c07bb" width="130" height="150" /> |
-
-
 
 |-----|`Student details`|
 |----|----|
