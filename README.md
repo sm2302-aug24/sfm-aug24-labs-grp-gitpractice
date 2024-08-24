@@ -21,4 +21,4 @@ Get to know us:
 | **Favourite Colour** | Green :green_heart: |
 | **Favourite place** | Places with a lot of foods! :pizza: :rice: :icecream: |
 
-<img src="https://raw.githubusercontent.com/sm2302-aug24/labs-grp-sunsine/nrwanikmli.md/wani.jfif" width="250" height="300">
+<img src="https://github.com/sm2302-aug24/labs-grp-sunsine/blob/nrwanikmli.md/syazwani.jpg" width="250" height="300">
