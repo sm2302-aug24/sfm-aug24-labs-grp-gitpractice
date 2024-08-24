@@ -7,5 +7,4 @@
 | **Favourite Colour** | pink |
 | **Favourite place** | cafes :coffee: :cake: |
 
-![alt text][logo]
-[logo]: 
+![aribah.jpg](aribah.jpg)
