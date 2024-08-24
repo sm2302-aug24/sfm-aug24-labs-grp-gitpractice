@@ -1,4 +1,4 @@
-|`group Name`|`Mathletes`|
+|group Name|`Mathletes`|
 |---|---|
 |name|Farah Fareesha Binti Mohamad Rizam|
 |age|19|
@@ -9,13 +9,13 @@
 |Why|Fun to solve and i understand the concept completely| 
 |Picture you find inspiring|<img src="https://github.com/user-attachments/assets/852fe074-030d-4906-8558-e191b2ec0e77" width="80" height="100">
 |----|----|
-|name|syakirah|
+|name|Amal Syakirah Binti Haji Jazlan|
 |age|20|
 |student ID|23B9016|
 |Favourite number|13|
 |Hobbie|Gaming|
 |Favourite mathematical concept| Proving trigonometrics ratios|
-|Why|Because I just need to prove and its one of the math question I can answer with less sweat|
+|Why|I just need to prove and fun|
 |Fun fact about yourself|I can still hear my surrounding when I am sleeping|
 |picture you find inspiring| <img src="https://github.com/user-attachments/assets/36f602f3-fc11-4eba-a111-6822af2c07bb" width="120" height="150" /> |
 |---|--|
