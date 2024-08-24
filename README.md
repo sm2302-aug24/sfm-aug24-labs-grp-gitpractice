@@ -1,4 +1,8 @@
-|group Name|`Mathletes`|
+# `Mathletes`
+
+## Members:
+
+|-----|`Student details`|
 |---|---|
 |name|Farah Fareesha Binti Mohamad Rizam|
 |age|19|
@@ -8,6 +12,8 @@
 |Favourite mathematical concept|Angles|
 |Why|Fun to solve and i understand the concept completely| 
 |Picture you find inspiring|<img src="https://github.com/user-attachments/assets/852fe074-030d-4906-8558-e191b2ec0e77" width="80" height="100">
+
+|-----|`Student details`|
 |----|----|
 |name|Amal Syakirah Binti Haji Jazlan|
 |age|20|
@@ -19,6 +25,9 @@
 |Fun fact about yourself|I can still hear my surrounding when I am sleeping|
 |picture you find inspiring| <img src="https://github.com/user-attachments/assets/36f602f3-fc11-4eba-a111-6822af2c07bb" width="120" height="150" /> |
 |---|--|
+
+|-----|`Student details`|
+|----|----|
 |name|Nur Rabiatul Adibah binti Yasran |
 |age|20|
 |student ID|24B2025|
