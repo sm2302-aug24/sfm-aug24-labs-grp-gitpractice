@@ -6,3 +6,5 @@
 | **Hobby** | baking and watching kdramas |
 | **Favourite Colour** | pink |
 | **Favourite place** | cafes :coffee: :cake: |
+
+<img src="aribah.jpg" width="250" height="300">
