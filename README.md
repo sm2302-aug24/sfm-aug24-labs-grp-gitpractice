@@ -9,9 +9,10 @@ Get to know us:
 
 |Member|:sun_with_face:|
 |----|----|
-|Aribah|[Aribah's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/tree/AribahAzhan.md#)
-|Syazwani|[Syazwani's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/tree/nrwanikmli.md#)
+|Aribah|[Aribah's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/tree/AribahAzhan.md#)|
+|Syazwani|[Syazwani's profile](https://github.com/sm2302-aug24/labs-grp-sunsine/tree/nrwanikmli.md#)|
 =======
+
 | **Group** | sunsine :sunny: |
 |-----|:----:|
 | **Name** | Nur Syazwani binti Kamal Ali|
