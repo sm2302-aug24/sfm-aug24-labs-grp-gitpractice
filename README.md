@@ -24,6 +24,8 @@ Get to know us:
 
 <img src="aribah.jpg" width="250" height="300">
 
+| **Group** | sunsine :sunny: |
+|-----|:----:|
 | **Name** | Nur Syazwani binti Kamal Ali|
 | **Student ID** | 21b2015 |
 | **Favourite Math Concept** | Differentiation |
