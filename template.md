@@ -8,3 +8,4 @@ Name | Age | Hobby | Fav Mathematical Concept | Reason | Trademark | Profile
 --- | --- | --- | --- | --- | --- | ---
 Syafiqah Yusuf | 20 | Sleep & Daydreaming | y = mx + c | I like  being straight-forward (pun intended) | I like  cats | [SyafYus](https://github.com/SyafYus)
 Angela Chan | 20 | Drawing & Reading | Trigonometry Proving | fun | I like bunnies | [Angela Chan](https://github.com/Angela-29)
+irdina batrisyia | 19 | drawing, guitar | differentiation | interesting process | study smart | [irdina](https://github.com/nrirdnbtrsy)
