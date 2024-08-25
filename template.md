@@ -1,8 +1,10 @@
 # Sine ( rs ) 
-Hello. We are the Sine(rs)!
+Hello, Welcome to our planet! We are the **Sine(rs)**
+We are just a bunch of ~harmless~ math addict students :D
+(I'm just gonna post a random pic here to represent us 3 later)
 
 ## Group members
-1.
-Name | Registration No | Hobby | Fav Math Concept | Other Info | Photo | Link
+Name | Age | Hobby | Fav Mathematical Concept | Reason | Trademark | Profile
 --- | --- | --- | --- | --- | --- | ---
-Syafiqah Yusuf | 24B2009 | Sleep | y+mx=c | I like cats | ![](https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?auto=compress&fm=pjpg) | [SyafYus](https://github.com/SyafYus)
+Syafiqah Yusuf | 20 | Sleep & Daydreaming | y = mx + c | I like  being straight-forward (pun intended) | I like  cats | [SyafYus](https://github.com/SyafYus)
+Angela Chan | - | Drawing & Reading | Trigonometry Proving | - | - | [Angela Chan](https://github.com/Angela-29)
