@@ -5,7 +5,7 @@ We are just a bunch of ~harmless~ math addict students :D
 
 ![](https://i.pinimg.com/564x/99/ed/7a/99ed7a7b583861501b57de7c9bda8d2d.jpg)
 
-## Group members
+## Group members 👥
 Name | Reg No | Age | Hobby | Fav Mathematical Concept | Reason | Trademark | Profile
 --- | --- | --- | --- | --- | --- | --- | ---
 Syafiqah Yusuf 🤙 | 24B2009 | 20 | Sleep & Daydreaming | y = mx + c | I like  being straight-forward (pun intended) | I like  cats | [SyafYus](https://github.com/SyafYus)
