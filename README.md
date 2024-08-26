@@ -1,6 +1,5 @@
 |`group Name`|`Mathletes`|
 |---|---|
-
 |name|syakirah|
 |age|20|
 |student ID|23B9016|
@@ -11,7 +10,8 @@
 |Fun fact about yourself|I can still hear my surrounding when I am sleeping|
 |picture you find inspiring| <img src="https://github.com/user-attachments/assets/36f602f3-fc11-4eba-a111-6822af2c07bb" width="120" height="150" /> |
 
-
+|`group Name`|`Mathletes`|
+|---|---|
 |name|Nur Rabiatul Adibah binti Yasran |
 |age|20|
 |student ID|24B2025|
