@@ -7,7 +7,7 @@
 | Farhanah  |  21 |    20b9029 |I love babies | cooking  | Integral equations |     | 
 | Se Yee  |  24 |    20b9001 |explore new places & people | gym | pythagoras theorem |     | 
 
-# A picture of four cuties 🫣
+# An inspiring picture of four cuties 🫣
 
 ![IMG_9830](https://github.com/user-attachments/assets/029f5300-1d0a-452a-b2a7-3e426ec653bf)
 
