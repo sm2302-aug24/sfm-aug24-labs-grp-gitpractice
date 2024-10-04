@@ -21,7 +21,8 @@ prices <-
 brands <-
   html |>
   html_elements(".vehicle-name") |>
-  html_text2()
+  html_text2() |>
+  as.character()
 
 mileages <-
   html |>
@@ -31,8 +32,10 @@ mileages <-
 
 colors <-
   html |>
-  html_elements(".car-colors") |>
+  html_elements(".mini-hide") |>
   html_text2()
+str_remove_all(colors, "[0-9]")
+str_trim(clean_colors)
 
 remarks <- 
   html |>
