@@ -32,11 +32,12 @@ mileages <-
   html_elements(".miles-style") |>
   html_text2() |>
   as.integer()
-sfbhv
+
 colors <-
   html |>
   html_elements(".mini-hide") |>
   html_text2()
+str_remove_all(colors, "[0-9]")
 
 remarks <- 
   html |>
