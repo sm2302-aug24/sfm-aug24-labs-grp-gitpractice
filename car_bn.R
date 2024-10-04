@@ -1,9 +1,17 @@
-library(polite)
+
 library(rvest)
 
+#Using website honeycarsmart
+
 #what do we want to know
-#eg jepun is it expensive
+#eg japan is it expensive
 #compare color
 #which one is more famous
 #
+#mileage
+#color
+#size
+#cc
 #
+#
+
