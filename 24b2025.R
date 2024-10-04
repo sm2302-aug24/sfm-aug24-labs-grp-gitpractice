@@ -7,6 +7,21 @@ library(rvest)
 url <- "https://www.honeycarsmart.com/index.php/full-inventory"
 html <- read_html(url)
 
+#number of pages to scrape
+num_pages <- 21
+all_data <- list()
+
+for (i in 1:num_pages) { 
+  page <- read_html(url)
+  data <- page %>% 
+    html_nodes(".css-selector") %>%
+    html_text() 
+  all_data[[i]] <- data
+}
+ 
+combined_data <- unlist(all_data)
+print(combined_data)
+
 # Extract the car price
 prices <-
   html |>
