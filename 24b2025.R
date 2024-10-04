@@ -13,6 +13,7 @@ prices <-
 # Clean up
 prices <- 
   str_remove_all(prices, "[^0-9]") |>  # Remove non-numeric characters
+  na.if("") |>  #Replace empty strings with NA
   as.integer()
 
 # Do same thing for number of brands, mileages, colors, and other remarks
@@ -39,6 +40,8 @@ remarks <-
   html_text2()
 
 remarks <- tail(remarks, length(prices))
+
+library(tidyverse)
 
 # Put it all in a data frame
 hsp_df <- tibble(
