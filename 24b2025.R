@@ -11,7 +11,7 @@ html <- read_html(url)
 prices <-
   html |>
   html_elements(".results") |>
-  html_text2()
+  html_text2() 
 
 # Clean up
 prices <- 
@@ -22,16 +22,17 @@ prices <-
 # Do same thing for number of brands, mileages, colors, and other remarks
 brands <-
   html |>
-  html_elements(".title-tag") |>
+  html_elements(".vehicle-name") |>
   html_text2() |>
-  as.integer()
-#smtg wrong
+  as.character()
+
 
 mileages <-
   html |>
   html_elements(".miles-style") |>
   html_text2() |>
   as.integer()
+#smtg wrong
 
 colors <-
   html |>
