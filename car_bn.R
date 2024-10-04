@@ -1,17 +1,53 @@
-
 library(rvest)
+library(tidyverse)
+# This is how you get read the HTML into R
+url <- "https://www.honeycarsmart.com/index.php/full-inventory/"
+html <- read_html(url)
 
-#Using website honeycarsmart
+# Extract the car price
+prices <-
+  html |>
+  html_elements(".results") |>
+  html_text2() 
 
-#what do we want to know
-#eg japan is it expensive
-#compare color
-#which one is more famous
-#
-#mileage
-#color
-#size
-#cc
-#
-#
+# Clean up
+prices <- 
+  prices <- 
+  str_remove_all(prices, "[^0-9]") |>  # Remove non-numeric characters
+  na_if("") |>                         # Replace empty strings with NA
+  as.integer()                         # Convert to integers
 
+# Do same thing for number of brands, mileages, colors, and other remarks
+brands <-
+  html |>
+  html_elements(".vehicle-name") |>
+  html_text2()
+
+mileages <-
+  html |>
+  html_elements(".car-mileages") |>
+  html_text2() |>
+  as.integer()
+
+colors <-
+  html |>
+  html_elements(".car-colors") |>
+  html_text2()
+
+remarks <- 
+  html |>
+  html_elements("div p .mt-3") |>
+  html_text2()
+
+remarks <- tail(remarks, length(prices))
+
+library(tidyverse)
+
+# Put it all in a data frame
+hsp_df <- tibble(
+  price = prices,
+  brands = brands,
+  mileages = mileages,
+  colors = colors,
+  remarks = remarks
+)
