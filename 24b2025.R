@@ -12,10 +12,11 @@ num_pages <- 21
 all_data <- list()
 
 for (i in 1:num_pages) { 
+  url <- paste0("https://www.honeycarsmart.com/index.php/full-inventory/page/", i)
   page <- read_html(url)
   data <- page %>% 
-    html_nodes(".css-selector") %>%
-    html_text() 
+    html_elements(".results") %>%
+    html_text2() 
   all_data[[i]] <- data
 }
  
@@ -28,11 +29,29 @@ prices <-
   html_elements(".results") |>
   html_text2() 
 
+library(tidyverse)
+
 # Clean up
 prices <- 
   str_remove_all(prices, "[^0-9]") |>  # Remove non-numeric characters
-  na_if("") #Replace empty string with na
   as.integer()
+  
+  #number of pages to scrape
+  num_pages <- 21
+  all_data <- list()
+  
+for (i in 1:num_pages) { 
+    url <- paste0("https://www.honeycarsmart.com/index.php/full-inventory/page/", i)
+    page <- read_html(url)
+    data <- page %>% 
+      html_elements(".vehicle-name") %>%
+      html_text2() 
+    all_data[[i]] <- data
+  }
+  
+combined_data <- unlist(all_data)
+print(combined_data)
+  
 
 # Do same thing for number of brands, mileages, colors, and other remarks
 brands <-
@@ -41,18 +60,52 @@ brands <-
   html_text2() |>
   as.character()
 
+#number of pages to scrape
+num_pages <- 21
+all_data <- list()
+
+for (i in 1:num_pages) { 
+  url <- paste0("https://www.honeycarsmart.com/index.php/full-inventory/page/", i)
+  page <- read_html(url)
+  data <- page %>% 
+    html_elements(".miles-style") %>%
+    html_text2() 
+  all_data[[i]] <- data
+}
+
+combined_data <- unlist(all_data)
+print(combined_data)
+
 
 mileages <-
   html |>
   html_elements(".miles-style") |>
   html_text2() |>
-  as.integer()
+  as.character()
 #smtg wrong
+
+#number of pages to scrape
+num_pages <- 21
+all_data <- list()
+
+for (i in 1:num_pages) { 
+  url <- paste0("https://www.honeycarsmart.com/index.php/full-inventory/page/", i)
+  page <- read_html(url)
+  data <- page %>% 
+    html_elements(".mini-hide") %>%
+    html_text2() %>%
+    data <- str_remove_all(data, "\\d{4}")
+  all_data[[i]] <- data
+}
+
+combined_data <- unlist(all_data)
+combined_data <- str_trim(combined_data)  # Remove leading/trailing whitespace
+print(combined_data)
 
 colors <-
   html |>
   html_elements(".mini-hide") |>
-  html_text2()
+  html_text2() |>
 str_remove_all(colors, "[0-9]")
 
 remarks <- 
