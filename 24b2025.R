@@ -3,6 +3,7 @@
 
 library(rvest)
 
+
 # This is how you get read the HTML into R
 url <- "https://www.honeycarsmart.com/index.php/full-inventory"
 html <- read_html(url)
@@ -51,6 +52,7 @@ for (i in 1:num_pages) {
     all_brands[[i]] <- data
   }
   
+
 combined_data <- unlist(all_brands)
 print(combined_data)
 
@@ -61,7 +63,9 @@ brands <-
   html_text2() |>
   as.character()
 
-#--------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------
+
+
 all_mileages <- list()
 
 for (i in 1:num_pages) { 
@@ -83,6 +87,12 @@ mileages <-
   html_text2() |>
   as.character()
 
+# Clean up
+mileages <- 
+  str_remove_all(mileages, " kms") |>  # Remove non-numeric characters
+  str_remove_all( ",") |>  # Remove non-numeric characters
+
+  as.integer()
 #--------------------------------------------------------------------------------
 all_colors <- list()
 
@@ -125,6 +135,4 @@ hsp_df <- tibble(
   colors = colors,
   remarks = remarks
 )
-
-
 
